@@ -1,0 +1,136 @@
+<template>
+	<section class="menu section" id="menu">
+		<div class="container">
+			<h2 class="is-primary has-text-centered is-size-1 section-title">MENU</h2>
+			<div class="section">
+
+				<div class="columns">
+
+					<div class="column is-one-fifth">
+						<div class="tabs is-boxed">
+							<ul id="tabs">
+								<li 
+									v-bind:key="item.id" 
+									v-for="(item, index) in menuData" 
+									v-bind:class="{'is-active': tabID == index}" 
+									v-on:click="showContent(index)"
+								>
+									<a>
+										<span>{{ item.title }}</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="column">
+						<div id="tab-content">
+
+							<div 
+								class="block tabcontent" 
+								v-for="(item, index) in menuData" 
+								v-bind:key="item.id" 
+								v-bind:class="{'is-active': tabID == index}"
+							>
+
+								<div class="columns">
+									<div class="column">
+										<Table v-bind:items="item.items" v-bind:categoryName="item.engTitle" />
+									</div>
+									<div class="column is-one-third">
+										<Gallery v-bind:galleryImages="item.images" />
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+	</section>
+</template>
+
+<script>
+	import Table from './Table.vue';
+	import Gallery from './Gallery.vue';
+	import data from '../assets/data/menu.json';
+
+	export default {
+		name: 'menu',
+		components: { Table, Gallery },
+		data() {
+			return {
+				menuData: data,
+				tabID: 0
+			}
+		},
+		methods: {
+			showContent(index) {
+				this.tabID = index;
+			}
+		}
+	}
+</script>
+
+
+<style scoped>
+	.section-title {
+		color: #da251dff;
+		border-bottom: 1px solid #dbdbdb;
+	}
+
+	.tabs {
+		background-color: #f3f3f3;
+		/* border-right: 1px solid #dbdbdb; */
+	}
+
+	#tabs {
+		border-bottom-color: #fff;
+		-webkit-flex-direction: column;
+		flex-direction: column;
+	}
+
+	#tabs li {
+		font-size: 1em;
+		width: 100%;
+		margin: 5px auto;
+	}
+
+	#tabs li span {
+		color: inherit;
+	}
+	#tabs li a {
+		border-radius: 0;
+		border: none;
+	}
+	
+	#tabs li a:hover {
+		border: 0 #fff;;
+		border-radius: 0;
+		/* background-color: #fff; */
+	}
+
+	#tabs li.is-active a {
+		color: #fff;
+		background-color: #da251dff;
+	}
+
+	#tab-content .tabcontent {
+		display: none;
+	}
+
+	#tab-content .tabcontent.is-active {
+		display: block;
+	}
+
+	@media screen and (max-width: 992px) {
+		#tabs li {
+			margin: auto;
+			font-size: 1em;
+		}
+	}
+</style>
