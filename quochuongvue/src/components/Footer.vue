@@ -5,27 +5,11 @@
 				<div class="columns">
 					<div class="column has-text-centered contact-column">
 						<h2 class="subtitle has-text-weight-bold">CONTACT</h2>
-						<a class="default-color" href="https://goo.gl/maps/WdsHsGfqFaP2" target="_blank">
+						<div class="default-color">
 							<p>5150 Buford Hwy NE</p>
 							<p>Doraville, GA 30340</p>
-						</a>
+						</div>
 						<a class="default-color" href="tel:7709360605">770-936-0605</a>
-					</div>
-					<div class="column has-text-centered location-column">
-						<h2 class="subtitle has-text-weight-bold">LOCATION</h2>
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.8850580957487!2d-84.28750788436645!3d33.89261398064955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f509ce9a30c1bf%3A0xfb5e6e5e075ab3e8!2sQuoc+Huong+Banh+Mi+Fast+Food!5e0!3m2!1sen!2sus!4v1547350111633" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-					</div>
-					<div class="column has-text-centered reviews-column">
-						<h2 class="subtitle has-text-weight-bold">HOURS</h2>
-						<ul>
-							<li>Sun: 9AM - 9PM</li>
-							<li>Mon: 9AM - 8PM</li>
-							<li>Tue: 9AM - 8PM</li>
-							<li>Wed: 9AM - 8PM</li>
-							<li>Thu: <span class="has-text-danger has-text-weight-bold">CLOSED</span></li>
-							<li>Fri: 9AM - 8PM</li>
-							<li>Sat: 9AM - 8PM</li>
-						</ul>
 						<hr>
 						<div class="content has-text-centered">
 							<ul class="reviews">
@@ -57,6 +41,22 @@
 							</ul>
 						</div>
 					</div>
+					<div class="column has-text-centered location-column">
+						<h2 class="subtitle has-text-weight-bold">LOCATION</h2>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.8850580957487!2d-84.28750788436645!3d33.89261398064955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f509ce9a30c1bf%3A0xfb5e6e5e075ab3e8!2sQuoc+Huong+Banh+Mi+Fast+Food!5e0!3m2!1sen!2sus!4v1547350111633" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+					</div>
+					<div class="column has-text-centered reviews-column">
+						<h2 class="subtitle has-text-weight-bold">HOURS</h2>
+						<ul>
+							<li>Sun: 9AM - 9PM</li>
+							<li>Mon: 9AM - 8PM</li>
+							<li>Tue: 9AM - 8PM</li>
+							<li>Wed: 9AM - 8PM</li>
+							<li>Thu: <span class="has-text-danger has-text-weight-bold">CLOSED</span></li>
+							<li>Fri: 9AM - 9PM</li>
+							<li>Sat: 9AM - 9PM</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 			<div class="content has-text-centered copyright">
@@ -72,9 +72,32 @@
 	footer {
 		border-top: 1px solid #f3f3f3;
 		padding-top: 25px;
-		/* background-color: #f3f3f3; */
+		position: relative;
 	}
 
+	footer:before {
+		content: "";
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		z-index: 1;
+		background-image: url('../assets/images/footer_background.jpg');
+		opacity: 0.5;
+		background-size: cover;
+	}
+	h2.subtitle {
+		font-size: 1.5em;
+	}
+	.section {
+		position: relative;
+		z-index: 2;
+	}
+	.container {
+		background-color: rgba(255,255,255,0.9);
+		padding: 50px 0;
+	}
 	iframe {
 		width: 100%;
 	}

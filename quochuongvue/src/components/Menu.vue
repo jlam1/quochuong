@@ -49,6 +49,7 @@
 
 				</div>
 
+				<p class="has-text-centered is-size-4 has-text-weight-bold primary-color">We only accept cash!</p>
 			</div>
 		</div>
 	</section>

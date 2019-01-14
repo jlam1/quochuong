@@ -8,7 +8,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr v-bind:key="item.id" v-for="(item, index) in items">
+				<tr v-bind:key="item.id" v-for="item in items">
 					<td>{{ item.name }}</td>
 					<td>{{ item.description }}</td>
 					<td>${{ item.price }}</td>

@@ -45,7 +45,7 @@
 			{
 				"name": "Bánh Mì Đặc Biệt",
 				"description" : "pate, meatloaf, pork sausage & bellies",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "Bánh Mì Thịt Nướng",
@@ -61,6 +61,11 @@
 				"name": "Bánh Mì Trứng",
 				"description" : "egg",
 				"price" : "3.00"
+			},
+			{
+				"name": "Bánh Mì Vegetables",
+				"description" : "vegetables",
+				"price" : "2.50"
 			}
 		]
 	},
@@ -349,7 +354,7 @@
 		]
 	},
 	{
-		"title": "GIẢI KHÁT",
+		"title": "BEVERAGES",
 		"engTitle": "BEVERAGES",
 		"prefix": false,
 		"specialNote" : "",

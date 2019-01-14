@@ -20,10 +20,10 @@
 </script>
 
 <style>
-	@import url('https://fonts.googleapis.com/css?family=Lato');
+	@import url('https://fonts.googleapis.com/css?family=Raleway');
 	* {
 		margin: 0;
-		font-family: 'Lato', sans-serif;
+		font-family: 'Raleway', sans-serif;
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 	}
