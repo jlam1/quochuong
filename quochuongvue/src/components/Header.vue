@@ -19,14 +19,18 @@
 </template>
 
 <style scoped>
-	header nav .link {
+	nav {
+		box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.2);
+	}
+	nav .link {
 		font-size: 1.3em;
 		color: #da251dff;
 		text-decoration: none;
 	}
-
-	header img {
-		max-width: 250px;
-		max-height: 100px;
+	p {
+		margin-bottom: 0!important;
+	}
+	img {
+		max-height: 90px;
 	}
 </style>

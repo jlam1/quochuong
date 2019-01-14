@@ -42,6 +42,7 @@
 	footer {
 		border-top: 1px solid #f3f3f3;
 		padding-top: 25px;
+		background-color: #f3f3f3;
 	}
 
 	footer iframe {
