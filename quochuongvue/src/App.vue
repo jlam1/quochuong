@@ -29,9 +29,7 @@
 	}
 	.section-title {
 		color: #da251dff;
-		/* color: #da251dff; */
-		/* border-bottom: 3px solid #f3f3f3; */
-		/* padding-bottom: 15px; */
+		margin: auto;
 	}
 	.default-color {
 		color: #000;
@@ -41,5 +39,24 @@
 	}
 	.secondary-color {
 		color: #ffff00ff;
+	}
+	.line-through {
+		display: table;
+		white-space: nowrap;
+	}
+	.line-through:before,
+	.line-through:after {
+		border-top: 3px solid rgba(218, 37, 29, 0.75);
+		content: '';
+		display: table-cell;
+		position: relative;
+		top: 0.6em;
+		width: 40%;
+	}
+	.line-through:before {
+		right: 1.5%;
+	}
+	.line-through:after {
+		left: 1.5%;
 	}
 </style>

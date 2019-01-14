@@ -14,11 +14,6 @@
 				"file": "https://i.imgur.com/pY44ShG.jpg",
 				"author": "John Doe",
 				"gallery": "gal1"
-			},
-			{
-				"file": "https://i.imgur.com/OuyQm17.jpg",
-				"author": "John Doe",
-				"gallery": "gal1"
 			}
 		],
 		"items": [
@@ -76,16 +71,14 @@
 		"specialNote" : "",
 		"images": [
 			{
-				"file": "bbq-dinner-grilled-grill-72160.jpeg",
-				"author": "John Doe"
+				"file": "https://i.imgur.com/pY44ShG.jpg",
+				"author": "John Doe",
+				"gallery": "gal1"
 			},
 			{
-				"file": "pexels-photo-236781.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-461198.jpeg",
-				"author": "John Doe"
+				"file": "https://i.imgur.com/OuyQm17.jpg",
+				"author": "John Doe",
+				"gallery": "gal1"
 			}
 		],
 		"items": [
@@ -101,7 +94,7 @@
 			},
 			{
 				"name": "Hủ Tiếu Khô",
-				"description" : "dry clear or white noodles with pork & seafod)",
+				"description" : "dry clear or white noodles with pork & seafood",
 				"price" : "7.00"
 			},
 			{

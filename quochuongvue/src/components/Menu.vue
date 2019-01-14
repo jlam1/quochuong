@@ -1,7 +1,7 @@
 <template>
 	<section class="menu section" id="menu">
 		<div class="container">
-			<h2 class="is-primary has-text-centered is-size-1 section-title">MENU</h2>
+			<h2 class="is-primary has-text-centered is-size-1 section-title line-through">MENU</h2>
 			<div class="section">
 
 				<div class="columns">
@@ -35,7 +35,7 @@
 
 								<div class="columns">
 									<div class="column">
-										<Table v-bind:items="item.items" v-bind:categoryName="item.engTitle" v-bind:specialNote="item.specialNote" />
+										<Table v-bind:items="item.items" v-bind:categoryName="item.engTitle" v-bind:specialNote="item.specialNote" v-bind:prefix="item.prefix" />
 									</div>
 									<div class="column is-one-third">
 										<Gallery v-bind:galleryImages="item.images" />
@@ -82,7 +82,8 @@
 		background-color: #f3f3f3;
 	}
 	.section-title {
-		border-bottom: 1px solid #dbdbdb;
+		/* border-bottom: 1px solid #dbdbdb; */
+		margin: auto;
 	}
 
 	.tabs {
@@ -94,12 +95,18 @@
 		border-bottom-color: #fff;
 		-webkit-flex-direction: column;
 		flex-direction: column;
+		/* border: 3px solid #da251dff; */
+		margin: 0;
+		padding: 0;
 	}
 
 	#tabs li {
 		font-size: 1em;
 		width: 100%;
-		margin: 5px auto;
+		margin-bottom: 10px;
+	}
+	#tabs li:last-child {
+		margin-bottom: 0px;
 	}
 
 	#tabs li span {
@@ -117,7 +124,7 @@
 	}
 
 	#tabs li.is-active a {
-		color: #fff;
+		color: #ffff00ff;
 		background-color: #da251dff;
 	}
 

@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<div v-bind:key="image.id" v-for="image in galleryImages">
+		<div class="has-text-centered" v-bind:key="image.id" v-for="image in galleryImages">
 			<a 
 				v-bind:href="image.file" 
 				v-bind:data-lightbox="image.gallery" 
@@ -20,12 +20,9 @@
 </script>
 
 <style scoped>
-	.gallery-container {
-		margin: auto;
-	}
 	img {
 		max-width: 200px;
-		margin: 5px;
+		margin: 5px auto;
 	}
 	@media screen and (max-width: 992px) {
 		img {
