@@ -35,7 +35,7 @@
 
 								<div class="columns">
 									<div class="column">
-										<Table v-bind:items="item.items" v-bind:categoryName="item.engTitle" />
+										<Table v-bind:items="item.items" v-bind:categoryName="item.engTitle" v-bind:specialNote="item.specialNote" />
 									</div>
 									<div class="column is-one-third">
 										<Gallery v-bind:galleryImages="item.images" />
@@ -78,8 +78,10 @@
 
 
 <style scoped>
+	section {
+		background-color: #f3f3f3;
+	}
 	.section-title {
-		color: #da251dff;
 		border-bottom: 1px solid #dbdbdb;
 	}
 
@@ -131,6 +133,14 @@
 		#tabs li {
 			margin: auto;
 			font-size: 1em;
+		}
+	}
+	@media screen and (max-width: 768px) {
+		#tabs {
+			display: none;
+		}
+		#tab-content .tabcontent {
+			display: block;
 		}
 	}
 </style>

@@ -2,17 +2,17 @@
 	<header>
 		<div class="container">
 			<nav class="level navbar is-fixed-top">
-				<p class="level-item has-text-centered is-hidden-mobile">
+				<!-- <p class="level-item has-text-centered is-hidden-mobile">
 					<a href="#menu" class="link is-info is-size-3">Menu</a>
-				</p>
+				</p> -->
 				<p class="level-item has-text-centered">
 					<a href="#">
 						<img src="../assets/images/logo.jpg" alt="">
 					</a>
 				</p>
-				<p class="level-item has-text-centered is-hidden-mobile">
+				<!-- <p class="level-item has-text-centered is-hidden-mobile">
 					<a href="#contact" class="link is-info is-size-3">Contact</a>
-				</p>
+				</p> -->
 			</nav>
 		</div>
 	</header>
@@ -31,6 +31,14 @@
 		margin-bottom: 0!important;
 	}
 	img {
-		max-height: 90px;
+		max-height: 80px;
+	}
+	@media screen and (max-width: 992px) {
+		nav {
+			position: relative!important;
+		}
+		img {
+			max-height: 50px;
+		}
 	}
 </style>

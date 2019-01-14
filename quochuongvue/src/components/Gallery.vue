@@ -27,4 +27,9 @@
 		max-width: 200px;
 		margin: 5px;
 	}
+	@media screen and (max-width: 992px) {
+		img {
+			max-width: 100%;
+		}
+	}
 </style>

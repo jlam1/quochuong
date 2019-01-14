@@ -14,12 +14,11 @@
 
 <style scoped>
 	section.home {
-		margin-top: 100px;
+		margin-top: 70px;
 	}
-
-	section.home .section-title {
-		color: #da251dff;
-		border-bottom: 3px solid #f3f3f3;
-		padding-bottom: 15px;
+	@media screen and (max-width: 992px) {
+		section.home {
+			margin-top: auto;
+		}
 	}
 </style>

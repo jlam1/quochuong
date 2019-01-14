@@ -3,6 +3,7 @@
 		"title": "BÁNH MÌ",
 		"engTitle": "SANDWICH",
 		"prefix": false,
+		"specialNote" : "Buy 5 Get One Free!",
 		"images": [
 			{
 				"file": "https://i.imgur.com/H0ii4wk.jpg",
@@ -23,47 +24,47 @@
 		"items": [
 			{
 				"name": "Bánh Mì Gà",
-				"description" : "(shredded chicken)",
+				"description" : "shredded chicken",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Paté",
-				"description" : "(paté)",
+				"description" : "paté",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Xíu Mại",
-				"description" : "(meatloaf)",
+				"description" : "meatloaf",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Chả Lụa",
-				"description" : "(pork sausage)",
+				"description" : "pork sausage",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Thịt Nguội",
-				"description" : "(steam pork)",
+				"description" : "steam pork",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Đặc Biệt",
-				"description" : "(pate, meatloaf, pork sausage & bellies)",
+				"description" : "pate, meatloaf, pork sausage & bellies",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Thịt Nướng",
-				"description" : "(grilled bbq pork)",
+				"description" : "grilled bbq pork",
 				"price" : "3.50"
 			},
 			{
 				"name": "Bánh Mì Đậu Hũ",
-				"description" : "(tofu)",
+				"description" : "tofu",
 				"price" : "3.00"
 			},
 			{
 				"name": "Bánh Mì Trứng",
-				"description" : "(egg)",
+				"description" : "egg",
 				"price" : "3.00"
 			}
 		]
@@ -72,6 +73,7 @@
 		"title": "HỦ TIẾU",
 		"engTitle": "RICE & CLEAR NOODLES SOUP",
 		"prefix": "H",
+		"specialNote" : "",
 		"images": [
 			{
 				"file": "bbq-dinner-grilled-grill-72160.jpeg",
@@ -89,27 +91,27 @@
 		"items": [
 			{
 				"name": "Hủ Tiếu Bò Viên",
-				"description" : "(rice noodles with beef ball)",
+				"description" : "rice noodles with beef ball",
 				"price" : "7.00"
 			},
 			{
 				"name": "Hủ Tiếu Đồ Biển",
-				"description" : "(rice noodles with seafood)",
+				"description" : "rice noodles with seafood",
 				"price" : "7.00"
 			},
 			{
 				"name": "Hủ Tiếu Khô",
-				"description" : "(dry clear or white noodles with pork & seafood)",
+				"description" : "dry clear or white noodles with pork & seafod)",
 				"price" : "7.00"
 			},
 			{
 				"name": "Hủ Tiếu Nam Vang",
-				"description" : "(clear noodles with pork & seafood)",
+				"description" : "clear noodles with pork & seafood",
 				"price" : "7.00"
 			},
 			{
 				"name": "Hủ Tiếu Thập Cẩm",
-				"description" : "(rice noodles with pork, seafood, & beef)",
+				"description" : "rice noodles with pork, seafood, & beef",
 				"price" : "8.00"
 			}
 		]
@@ -118,6 +120,7 @@
 		"title": "MÌ",
 		"engTitle": "EGG NOODLE SOUP",
 		"prefix": "M",
+		"specialNote" : "",
 		"images": [
 			{
 				"file": "bbq-dinner-grilled-grill-72160.jpeg",
@@ -135,32 +138,32 @@
 		"items": [
 			{
 				"name": "Mì Bò Viên",
-				"description" : "(egg noodles with beef ball)",
+				"description" : "egg noodles with beef ball",
 				"price" : "7.00"
 			},
 			{
 				"name": "Mì Đồ Biến",
-				"description" : "(egg noodles with seafood)",
+				"description" : "egg noodles with seafood",
 				"price" : "7.00"
 			},
 			{
 				"name": "Mì Cây Nhãn",
-				"description" : "(egg noodles with pork & seafood)",
+				"description" : "egg noodles with pork & seafood",
 				"price" : "7.00"
 			},
 			{
 				"name": "Mì Hoành Thánh",
-				"description" : "(egg noodles with wonton)",
+				"description" : "egg noodles with wonton",
 				"price" : "7.00"
 			},
 			{
 				"name": "Mì Khô",
-				"description" : "(dry noodles with pork & seafood)",
+				"description" : "dry noodles with pork & seafood",
 				"price" : "7.00"
 			},
 			{
 				"name": "Mì Thập Cẩm",
-				"description" : "(egg noodles with pork, seafood, & beef)",
+				"description" : "egg noodles with pork, seafood, & beef",
 				"price" : "8.00"
 			}
 		]
@@ -169,6 +172,7 @@
 		"title": "PHỞ",
 		"engTitle": "BEEF NOODLE SOUP",
 		"prefix": "P",
+		"specialNote" : "",
 		"images": [
 			{
 				"file": "bbq-dinner-grilled-grill-72160.jpeg",
@@ -186,27 +190,27 @@
 		"items": [
 			{
 				"name": "Phở Tái Nạm",
-				"description" : "(halal brisket & eye round beef)",
+				"description" : "halal brisket & eye round beef",
 				"price" : "7.00"
 			},
 			{
 				"name": "Phở Bò Viên",
-				"description" : "(beef ball)",
+				"description" : "beef ball",
 				"price" : "7.00"
 			},
 			{
 				"name": "Phở Đặc Biệt",
-				"description" : "(eye round beef, brisket, & beef ball)",
+				"description" : "eye round beef, brisket, & beef ball",
 				"price" : "8.00"
 			},
 			{
 				"name": "Phở Tôm",
-				"description" : "(shrimp)",
+				"description" : "shrimp",
 				"price" : "7.00"
 			},
 			{
 				"name": "Phở Tái",
-				"description" : "(eye round beef)",
+				"description" : "eye round beef",
 				"price" : "7.00"
 			}
 		]
@@ -215,46 +219,47 @@
 		"title": "BÚN",
 		"engTitle": "DRY VERMICELLI",
 		"prefix": "B",
+		"specialNote" : "",
 		"images": [],
 		"items": [
 			{
 				"name": "Bún Nem Nướng",
-				"description" : "(shrimp ball)",
+				"description" : "shrimp ball",
 				"price" : "7.00"
 			},
 			{
 				"name": "Bún Chạo Tôm",
-				"description" : "(fried shrimp sugar cane)",
+				"description" : "fried shrimp sugar cane",
 				"price" : "7.00"
 			},
 			{
 				"name": "Bún Thịt Nướng",
-				"description" : "(bbq pork)",
+				"description" : "bbq pork",
 				"price" : "7.00"
 			},
 			{
 				"name": "Bún Chả Giò",
-				"description" : "(fried egg rolls)",
+				"description" : "fried egg rolls",
 				"price" : "7.00"
 			},
 			{
 				"name": "Bún Tôm Nướng",
-				"description" : "(charcoal shrimp)",
+				"description" : "charcoal shrimp",
 				"price" : "7.00"
 			},
 			{
 				"name": "Bún Thịt & Chả Giò",
-				"description" : "(bbq pork & fried egg roll)",
+				"description" : "bbq pork & fried egg roll",
 				"price" : "8.00"
 			},
 			{
 				"name": "Bún Tôm & Chả Giò",
-				"description" : "(charcoal shrimp & fried egg roll)",
+				"description" : "charcoal shrimp & fried egg roll",
 				"price" : "8.00"
 			},
 			{
 				"name": "Bún Tôm & Thịt Nướng",
-				"description" : "(charcoal shrimp & bbq pork)",
+				"description" : "charcoal shrimp & bbq pork",
 				"price" : "8.00"
 			}
 		]
@@ -263,6 +268,7 @@
 		"title": "CƠM TẤM",
 		"engTitle": "STEAM RICE",
 		"prefix": "C",
+		"specialNote" : "",
 		"images": [
 			{
 				"file": "bbq-dinner-grilled-grill-72160.jpeg",
@@ -280,47 +286,47 @@
 		"items": [
 			{
 				"name": "Cơm Thịt Nướng",
-				"description" : "(bbq pork)",
+				"description" : "bbq pork",
 				"price" : "7.00"
 			},
 			{
 				"name": "Cơm Sườn Nướng",
-				"description" : "(charcoal pork chop)",
+				"description" : "charcoal pork chop",
 				"price" : "7.00"
 			},
 			{
 				"name": "Cơm Tôm Nướng",
-				"description" : "(charcoal shrimp)",
+				"description" : "charcoal shrimp",
 				"price" : "7.00"
 			},
 			{
 				"name": "Cơm Nem Nướng",
-				"description" : "(charcoal mix shrimp & pork ball)",
+				"description" : "charcoal mix shrimp & pork ball",
 				"price" : "7.00"
 			},
 			{
 				"name": "Cơm Chạo Tôm",
-				"description" : "(fried shrimp sugar cane)",
+				"description" : "fried shrimp sugar cane",
 				"price" : "7.00"
 			},
 			{
 				"name": "Cơm Bì Chả",
-				"description" : "(shredded pork & egg cake)",
+				"description" : "shredded pork & egg cake",
 				"price" : "7.00"
 			},
 			{
 				"name": "Cơm Bì Sườn Chả Ốp La",
-				"description" : "(pork chop, skin pork, egg cake, & egg)",
+				"description" : "pork chop, skin pork, egg cake, & egg",
 				"price" : "8.00"
 			},
 			{
 				"name": "Cơm Bì Thịt Nướng Chả Ốp La",
-				"description" : "(bbq pork, skin pork, egg cake, & egg)",
+				"description" : "bbq pork, skin pork, egg cake, & egg",
 				"price" : "8.00"
 			},
 			{
 				"name": "Cơm Bì Chả Ốp La",
-				"description" : "(skin pork, egg cake, & egg)",
+				"description" : "skin pork, egg cake, & egg",
 				"price" : "7.00"
 			}
 		]
@@ -329,21 +335,22 @@
 		"title": "APPETIZER",
 		"engTitle": "APPETIZER",
 		"prefix": "A",
+		"specialNote" : "",
 		"images": [],
 		"items": [
 			{
 				"name": "Gỏi Cuốn",
-				"description" : "(steam roll with shrimp & pork)",
+				"description" : "steam roll with shrimp & pork",
 				"price" : "4.00"
 			},
 			{
 				"name": "Gỏi Tôm",
-				"description" : "(steam roll with shrimp)",
+				"description" : "steam roll with shrimp",
 				"price" : "4.00"
 			},
 			{
 				"name": "Chả Giò",
-				"description" : "(vietnamese fried eggroll)",
+				"description" : "vietnamese fried eggroll",
 				"price" : "7.00"
 			}
 		]
@@ -352,66 +359,67 @@
 		"title": "GIẢI KHÁT",
 		"engTitle": "BEVERAGES",
 		"prefix": false,
+		"specialNote" : "",
 		"images": [],
 		"items": [
 			{
 				"name": "Coke/Sprite",
-				"description" : "(soda)",
+				"description" : "soda",
 				"price" : "1.00"
 			},
 			{
 				"name": "Sữa Đậu Nành",
-				"description" : "(soybean can)",
+				"description" : "soybean can",
 				"price" : "1.00"
 			},
 			{
 				"name": "Trà Đá",
-				"description" : "(ice tea)",
+				"description" : "ice tea",
 				"price" : "1.00"
 			},
 			{
 				"name": "Trà Nóng",
-				"description" : "(hot tea)",
+				"description" : "hot tea",
 				"price" : "1.00"
 			},
 			{
 				"name": "Đá Chanh",
-				"description" : "(fresh lemon/ice/sugar)",
+				"description" : "fresh lemon/ice/sugar",
 				"price" : "3.00"
 			},
 			{
 				"name": "Xíu Muội",
-				"description" : "(salted plum/ice/sugar)",
+				"description" : "salted plum/ice/sugar",
 				"price" : "3.00"
 			},
 			{
 				"name": "Chanh Muổi",
-				"description" : "(salted lemon/ice/sugar)",
+				"description" : "salted lemon/ice/sugar",
 				"price" : "3.00"
 			},
 			{
 				"name": "Chè Đậu Đỏ",
-				"description" : "(red bean/coconut/ice)",
+				"description" : "red bean/coconut/ice",
 				"price" : "4.00"
 			},
 			{
 				"name": "Chè Đậu Trắng",
-				"description" : "(white bean/coconut/ice)",
+				"description" : "white bean/coconut/ice",
 				"price" : "4.00"
 			},
 			{
 				"name": "Chè Ba Màu",
-				"description" : "(three colored beans/coconut/ice)",
+				"description" : "three colored beans/coconut/ice",
 				"price" : "4.00"
 			},
 			{
 				"name": "Cà Phê Đen Đá",
-				"description" : "(coffee/sugar/ice)",
+				"description" : "coffee/sugar/ice",
 				"price" : "4.00"
 			},
 			{
 				"name": "Cà Phê Sữa Đá",
-				"description" : "(coffee/milk/ice)",
+				"description" : "coffee/milk/ice",
 				"price" : "4.00"
 			}
 		]
@@ -420,61 +428,62 @@
 		"title": "SINH TỐ",
 		"engTitle": "TROPICAL FRUIT SMOOTHIE",
 		"prefix": false,
+		"specialNote" : "",
 		"images": [],
 		"items": [
 			{
 				"name": "Sinh Tố Bơ",
-				"description" : "(avocado)",
+				"description" : "avocado",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Mãng Cầu",
-				"description" : "(sour custard)",
+				"description" : "sour custard",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Dâu",
-				"description" : "(strawberry)",
+				"description" : "strawberry",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Cà Phê",
-				"description" : "(vietnamese coffee)",
+				"description" : "vietnamese coffee",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Xoài",
-				"description" : "(mango)",
+				"description" : "mango",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Dừa",
-				"description" : "(coconut)",
+				"description" : "coconut",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Khoai Mônf",
-				"description" : "(taro)",
+				"description" : "taro",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Dưa Gang",
-				"description" : "(honeydew)",
+				"description" : "honeydew",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Mocha",
-				"description" : "(mocha)",
+				"description" : "mocha",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Trà Xanh",
-				"description" : "(green tea)",
+				"description" : "green tea",
 				"price" : "4.00"
 			},
 			{
 				"name": "Sinh Tố Trà Thái",
-				"description" : "(thai tea)",
+				"description" : "thai tea",
 				"price" : "4.00"
 			}
 		]
