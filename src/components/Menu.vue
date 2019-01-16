@@ -2,6 +2,7 @@
 	<section class="menu section" id="menu">
 		<div class="container">
 			<h2 class="is-primary has-text-centered is-size-1 section-title line-through">MENU</h2>
+			<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-tablet">* We only accept cash!</p>
 			<div class="section">
 
 				<div class="columns">
@@ -49,7 +50,7 @@
 
 				</div>
 
-				<p class="has-text-centered is-size-4 has-text-weight-bold primary-color">We only accept cash!</p>
+				<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-mobile">* We only accept cash!</p>
 			</div>
 		</div>
 	</section>

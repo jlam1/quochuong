@@ -3,7 +3,7 @@
 	<div class="splash-image">
 		<img src="../assets/images/header_background.jpeg" alt="">
 	</div>
-	<section class="home section">
+	<!-- <section class="home section">
 		<div class="container">
 			<h1 class="is-primary has-text-centered is-size-1 section-title line-through">Welcome!</h1>
 			<div class="content">
@@ -13,7 +13,7 @@
 					aut repellat! Eius maxime et quasi?
 			</div>
 		</div>
-	</section>
+	</section> -->
 </div>
 </template>
 
