@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<table class="table is-hoverable">
+		<table class="table is-hoverable is-fullwidth">
 			<thead>
 				<tr>
 					<th colspan="2" class="has-text-centered">{{ categoryName }}</th>
@@ -9,8 +9,15 @@
 			</thead>
 			<tbody>
 				<tr v-bind:key="item.id" v-for="item in items">
-					<td>{{ item.name }}</td>
-					<td>{{ item.description }}</td>
+					<td>
+						{{ item.name }}
+						<span class="mobile-desc is-hidden-desktop">
+							<br/>
+						({{ item.description }})
+						</span>
+					</td>
+					<td class="is-hidden-touch">{{ item.description }}</td>
+					<td class="is-hidden-desktop"></td>
 					<td>${{ item.price }}</td>
 				</tr>
 			</tbody>
@@ -32,7 +39,7 @@
 	table {
 		margin: auto;
 		background-color: #f3f3f3;
-		/* border: 3px solid #da251dff; */
+		width: 100%;
 	}
 	table  tr > td:nth-child(1) {
 		font-weight: bold;
@@ -47,6 +54,9 @@
 	}
 	td {
 		text-transform: capitalize;
+	}
+	span.mobile-desc {
+		font-weight: 100;
 	}
 	.note {
 		text-align: center;
