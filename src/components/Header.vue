@@ -7,7 +7,7 @@
 				</p> -->
 				<p class="level-item has-text-centered">
 					<a href="#">
-						<img src="../assets/images/logo.jpg" alt="">
+						<img src="../assets/images/logo.png" alt="">
 					</a>
 				</p>
 				<!-- <p class="level-item has-text-centered is-hidden-mobile">

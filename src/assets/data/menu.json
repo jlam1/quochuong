@@ -6,14 +6,14 @@
 		"specialNote" : "Buy 5 Get One Free!",
 		"images": [
 			{
-				"file": "https://i.imgur.com/H0ii4wk.jpg",
-				"author": "John Doe",
-				"gallery": "gal1"
+				"file": "https://i.imgur.com/Hw3epam.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_banhmi"
 			},
 			{
-				"file": "https://i.imgur.com/pY44ShG.jpg",
-				"author": "John Doe",
-				"gallery": "gal1"
+				"file": "https://i.imgur.com/OMncRma.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_banhmi"
 			}
 		],
 		"items": [
@@ -76,14 +76,14 @@
 		"specialNote" : "",
 		"images": [
 			{
-				"file": "https://i.imgur.com/pY44ShG.jpg",
-				"author": "John Doe",
-				"gallery": "gal1"
+				"file": "https://i.imgur.com/3tj6HPt.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_hutieu"
 			},
 			{
-				"file": "https://i.imgur.com/OuyQm17.jpg",
-				"author": "John Doe",
-				"gallery": "gal1"
+				"file": "https://i.imgur.com/mOcWyxq.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_hutieu"
 			}
 		],
 		"items": [
@@ -121,16 +121,9 @@
 		"specialNote" : "",
 		"images": [
 			{
-				"file": "bbq-dinner-grilled-grill-72160.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-236781.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-461198.jpeg",
-				"author": "John Doe"
+				"file": "https://i.imgur.com/o6oMvte.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_mi"
 			}
 		],
 		"items": [
@@ -173,16 +166,9 @@
 		"specialNote" : "",
 		"images": [
 			{
-				"file": "bbq-dinner-grilled-grill-72160.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-236781.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-461198.jpeg",
-				"author": "John Doe"
+				"file": "https://i.imgur.com/xm1ZETA.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_pho"
 			}
 		],
 		"items": [
@@ -218,7 +204,9 @@
 		"engTitle": "DRY VERMICELLI",
 		"prefix": "B",
 		"specialNote" : "",
-		"images": [],
+		"images": [
+
+		],
 		"items": [
 			{
 				"name": "Bún Nem Nướng",
@@ -269,16 +257,9 @@
 		"specialNote" : "",
 		"images": [
 			{
-				"file": "bbq-dinner-grilled-grill-72160.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-236781.jpeg",
-				"author": "John Doe"
-			},
-			{
-				"file": "pexels-photo-461198.jpeg",
-				"author": "John Doe"
+				"file": "https://i.imgur.com/C4K78hQ.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_rice"
 			}
 		],
 		"items": [
@@ -334,7 +315,13 @@
 		"engTitle": "APPETIZER",
 		"prefix": "A",
 		"specialNote" : "",
-		"images": [],
+		"images": [
+			{
+				"file": "https://i.imgur.com/zVhg2yT.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_appetizer"
+			}
+		],
 		"items": [
 			{
 				"name": "Gỏi Cuốn",
@@ -358,7 +345,13 @@
 		"engTitle": "BEVERAGES",
 		"prefix": false,
 		"specialNote" : "",
-		"images": [],
+		"images": [
+			{
+				"file": "https://i.imgur.com/aacimPa.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_drinks"
+			}
+		],
 		"items": [
 			{
 				"name": "Coke/Sprite",
@@ -427,7 +420,13 @@
 		"engTitle": "TROPICAL FRUIT SMOOTHIE",
 		"prefix": false,
 		"specialNote" : "",
-		"images": [],
+		"images": [
+			{
+				"file": "https://i.imgur.com/OJz3Yca.png",
+				"title": "Taken By: William Pham",
+				"gallery": "gal_smoothies"
+			}
+		],
 		"items": [
 			{
 				"name": "Sinh Tố Bơ",

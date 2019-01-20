@@ -83,7 +83,7 @@
 		left: 0;
 		right: 0;
 		z-index: 1;
-		background-image: url('../assets/images/footer_background.jpg');
+		/* background-image: url('../assets/images/footer_background.jpg'); */
 		opacity: 0.5;
 		background-size: cover;
 	}

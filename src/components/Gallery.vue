@@ -4,7 +4,7 @@
 			<a 
 				v-bind:href="image.file" 
 				v-bind:data-lightbox="image.gallery" 
-				v-bind:data-title="image.author" 
+				v-bind:data-title="image.title" 
 			>
 				<img v-bind:src="image.file" alt="fooditem">
 			</a>

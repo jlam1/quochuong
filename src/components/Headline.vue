@@ -1,7 +1,7 @@
 <template>
 <div>
 	<div class="splash-image">
-		<img src="../assets/images/header_background.jpeg" alt="">
+		<img src="../assets/images/headline_background.png" alt="quoc huong shop" title="by william pham">
 	</div>
 	<!-- <section class="home section">
 		<div class="container">
@@ -19,12 +19,12 @@
 
 <style scoped>
 	.splash-image {
-		background-image: url('../assets/images/header_background.jpeg');
+		background-image: url('../assets/images/headline_background.png');
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		min-height: 600;
-		height: 75vh;
+		height: 90vh;
 		max-height: 900;
 	}
 	.splash-image img {
