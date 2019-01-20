@@ -75,16 +75,7 @@
 		"prefix": "H",
 		"specialNote" : "",
 		"images": [
-			{
-				"file": "https://i.imgur.com/3tj6HPt.png",
-				"title": "Taken By: William Pham",
-				"gallery": "gal_hutieu"
-			},
-			{
-				"file": "https://i.imgur.com/mOcWyxq.png",
-				"title": "Taken By: William Pham",
-				"gallery": "gal_hutieu"
-			}
+
 		],
 		"items": [
 			{
@@ -205,7 +196,16 @@
 		"prefix": "B",
 		"specialNote" : "",
 		"images": [
-
+			{
+				"file": "https://i.imgur.com/3tj6HPt.png",
+				"title": "Taken By: William Pham",
+				"gallery": "bun_hutieu"
+			},
+			{
+				"file": "https://i.imgur.com/mOcWyxq.png",
+				"title": "Taken By: William Pham",
+				"gallery": "bun_hutieu"
+			}
 		],
 		"items": [
 			{
