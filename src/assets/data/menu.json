@@ -63,7 +63,7 @@
 				"price" : "3.00"
 			},
 			{
-				"name": "Bánh Mì Vegetables",
+				"name": "Bánh Mì Rau",
 				"description" : "vegetables",
 				"price" : "2.50"
 			}
@@ -101,6 +101,11 @@
 			{
 				"name": "Hủ Tiếu Thập Cẩm",
 				"description" : "rice noodles with pork, seafood, & beef",
+				"price" : "8.00"
+			},
+			{
+				"name": "Hủ Tiếu Tôm",
+				"description" : "rice noodles with shrimp",
 				"price" : "8.00"
 			}
 		]
@@ -146,6 +151,11 @@
 			{
 				"name": "Mì Thập Cẩm",
 				"description" : "egg noodles with pork, seafood, & beef",
+				"price" : "8.00"
+			},
+			{
+				"name": "Mì Tôm",
+				"description" : "egg noodles with shrimp",
 				"price" : "8.00"
 			}
 		]
@@ -307,6 +317,11 @@
 				"name": "Cơm Bì Chả Ốp La",
 				"description" : "skin pork, egg cake, & egg",
 				"price" : "7.00"
+			},
+			{
+				"name": "Cơm Tôm Thịt Nướng",
+				"description" : "rice shrimp and bbq pork",
+				"price" : "8.00"
 			}
 		]
 	},
