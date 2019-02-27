@@ -61,7 +61,6 @@
 			</div>
 			<div class="content has-text-centered copyright">
 				<p>© 2019 Quoc Huong Banh Mi Fast Food. All rights reserved.</p>
-				<!-- <p class="poweredby">Powered by <a target="_blank" rel="nofollow" href="https://clicktypestudios.com">ClickType Studios</a></p> -->
 			</div>
 		</div>
 		<a id="mobile-contact" class="is-hidden-tablet is-size-5" href="tel:7709360605">770-936-0605</a>
@@ -129,13 +128,17 @@
 		max-width: 40px;
 	}
 	#mobile-contact {
-		background-color: #da251dff;
-		color: #fff;
 		position: fixed;
 		bottom: 0;
 		width: 100%;
 		text-align: center;
 		padding: 5px;
+		z-index: 99;
+		color: #ff0!important;
+		background-color: #da251d;
+		font-weight: 500;
+		font-size: 1.5em!important;
+		letter-spacing: 1px;
 	}
 	@media screen and (max-width: 576px) {
 		.contact-column {
