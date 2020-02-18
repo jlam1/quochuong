@@ -225,7 +225,7 @@
 			},
 			{
 				"name": "B2. Bún Chạo Tôm",
-				"description" : "fried shrimp sugar cane",
+				"description" : "fried shrimp sugar cane & pork",
 				"price" : "7.00"
 			},
 			{
@@ -236,7 +236,7 @@
 			{
 				"name": "B4. Bún Chả Giò",
 				"description" : "fried egg rolls",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "B5. Bún Tôm Nướng",
@@ -284,8 +284,8 @@
 				"price" : "7.00"
 			},
 			{
-				"name": "C3. Cơm Tôm Nướng",
-				"description" : "charcoal shrimp",
+				"name": "C3. Cơm Bì Chả Ốp La",
+				"description" : "skin pork, egg cake, & egg",
 				"price" : "7.00"
 			},
 			{
@@ -295,7 +295,7 @@
 			},
 			{
 				"name": "C5. Cơm Chạo Tôm",
-				"description" : "fried shrimp sugar cane",
+				"description" : "fried shrimp sugar cane & pork",
 				"price" : "7.00"
 			},
 			{
@@ -314,9 +314,9 @@
 				"price" : "8.00"
 			},
 			{
-				"name": "C9. Cơm Bì Chả Ốp La",
-				"description" : "skin pork, egg cake, & egg",
-				"price" : "7.00"
+				"name": "C9. Cơm Tôm Nướng",
+				"description" : "charcoal shrimp",
+				"price" : "8.00"
 			},
 			{
 				"name": "C10. Cơm Tôm Thịt Nướng",
