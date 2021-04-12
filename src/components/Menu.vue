@@ -1,6 +1,9 @@
 <template>
 	<section class="menu section" id="menu">
 		<div class="container">
+			<h1 class="is-primary has-text-centered is-size-1 section-title" style="color: #ffff00ff !important;background-color: #da251dff;font-weight: bold;padding:35px 0;">OPENING BACK UP ON MAY 1st, 2021</h1>
+			<br>
+			<br>
 			<h2 class="is-primary has-text-centered is-size-1 section-title line-through">MENU</h2>
 			<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-tablet">* We only accept cash!</p>
 			<div class="section">
