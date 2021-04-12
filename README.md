@@ -14,16 +14,6 @@ npm run serve
 ```
 npm run build
 ```
+This builds into `./dist`
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Copy and paste into root and override, use `./index_backup.html` and copy over meta tags `facebook og, twitter cards, etc`
