@@ -20,52 +20,52 @@
 			{
 				"name": "1. Bánh Mì Gà",
 				"description" : "shredded chicken",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "2. Bánh Mì Paté",
 				"description" : "paté",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "3. Bánh Mì Xíu Mại",
 				"description" : "meatloaf",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "4. Bánh Mì Chả Lụa",
 				"description" : "pork sausage",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "5. Bánh Mì Thịt Nguội",
 				"description" : "steam pork",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "6. Bánh Mì Đặc Biệt",
 				"description" : "pate, meatloaf, pork sausage & bellies",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "7. Bánh Mì Thịt Nướng",
 				"description" : "grilled bbq pork",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "8. Bánh Mì Đậu Hũ",
 				"description" : "tofu",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "9. Bánh Mì Trứng",
 				"description" : "egg",
-				"price" : "3.00"
+				"price" : "3.50"
 			},
 			{
 				"name": "10. Bánh Mì Rau",
 				"description" : "vegetables",
-				"price" : "2.50"
+				"price" : "3.00"
 			}
 		]
 	},
