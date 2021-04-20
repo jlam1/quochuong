@@ -1,0 +1,65 @@
+[
+	{
+		"title": "Quoc Huong Banh Mi Fast Food",
+		"metas": [
+			{
+				"name": "google-site-verification",
+				"value": "l43bysoVJgJ58JpKdyLuPPI3gIEzOSems0VHmdVb6OI"
+			},
+			{
+				"name": "description",
+				"value": "Quoc Huong Banh Mi Fast Food Vietnamese Restaurant"
+			},
+			{
+				"name": "og:title",
+				"value": "Quoc Huong Banh Mi Fast Food Vietnamese Restaurant"
+			},
+			{
+				"name": "og.description",
+				"value": "Quoc Huong Banh Mi Fast Food Vietnamese Restaurant"
+			},
+			{
+				"name": "og:type",
+				"value": "website"
+			},
+			{
+				"name": "og:url",
+				"value": "https://banhmiquochuong.com/"
+			},
+			{
+				"name": "og:image",
+				"value": "https://banhmiquochuong.com/img/logo.3274bb45.png"
+			},
+			{
+				"name": "twitter:card",
+				"value": "summary"
+			},
+			{
+				"name": "twitter:site",
+				"value": "https://banhmiquochuong.com/"
+			},
+			{
+				"name": "twitter:creator",
+				"value": "@"
+			},
+			{
+				"name": "twitter:title",
+				"value": "Quoc Huong Banh Mi Fast Food Vietnamese Restaurant"
+			},
+			{
+				"name": "twitter:description",
+				"value": "Quoc Huong Banh Mi Fast Food Vietnamese Restaurant"
+			},
+			{
+				"name": "twitter:image",
+				"value": "https://banhmiquochuong.com/img/logo.3274bb45.png"
+			}
+		],
+		"canonical_link": [
+			{
+				"name": "canonical",
+				"value": "https://banhmiquochuong.com/"
+			}
+		]
+	}
+]
