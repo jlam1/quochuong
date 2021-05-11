@@ -1,7 +1,20 @@
 <template>
 	<section class="menu section" id="menu">
 		<div class="container">
-			<h1 class="is-primary has-text-centered is-size-1 section-title" style="color: #ffff00ff !important;background-color: #da251dff;font-weight: bold;padding:35px 0;">OPENING BACK UP ON MAY 1st, 2021</h1>
+			<div style="text-align:center;">
+				<div class="has-text-centered" style="color: #ffff00ff !important;background-color: #da251dff;font-weight: bold;padding:20px;display:inline-block;">
+					<p style="font-size:1.4em;">New Hours After 5/1/21</p>
+					<ul style="padding:20px; font-size:1.2em;">
+						<li>Sun: 10AM - 6PM</li>
+						<li>Mon: 9AM - 5PM</li>
+						<li>Tue: 9AM - 5PM</li>
+						<li>Wed: 9AM - 5PM</li>
+						<li>Thu: <span class="has-text-weight-bold">CLOSED</span></li>
+						<li>Fri: 9AM - 5PM</li>
+						<li>Sat: 9AM - 6PM</li>
+					</ul>
+				</div>
+			</div>
 			<br>
 			<br>
 			<h2 class="is-primary has-text-centered is-size-1 section-title line-through">MENU</h2>

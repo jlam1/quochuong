@@ -14,11 +14,6 @@
 						<div class="content has-text-centered">
 							<ul class="reviews">
 								<li>
-									<a href="https://www.yelp.com/biz/quoc-huong-banh-mi-fast-food-atlanta?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct)" rel="nofollow" target="_blank">
-										<img src="../assets/images/icon_yelp.svg" alt="yelp">
-									</a>
-								</li>
-								<li>
 									<a href="https://www.google.com/search?ei=SaA8XO27Fovl_Qbrv6KYCA&q=quoc+huong&oq=quoc+huong&gs_l=psy-ab.3..35i39l2j0i20i263j0l7.6896.7893..7982...0.0..0.79.711.10......0....1..gws-wiz.......0i71j0i131j0i67.dIVGnh3Sq2g#lrd=0x88f509ce9a30c1bf:0xfb5e6e5e075ab3e8,1,,," rel="nofollow" target="_blank">
 										<img src="../assets/images/icon_google.svg" alt="google">
 									</a>
@@ -33,11 +28,11 @@
 										<img src="../assets/images/icon_zomato.svg" alt="zomato">
 									</a>
 								</li>
-								<li>
+								<!-- <li>
 									<a href="https://www.facebook.com/pages/Qu%C3%B4c-H%C3%BA%C3%B3ng/151864831504835" rel="nofollow" target="_blank">
 										<img src="../assets/images/icon_facebook.svg" alt="facebook">
 									</a>
-								</li>
+								</li> -->
 							</ul>
 						</div>
 					</div>
@@ -47,14 +42,15 @@
 					</div>
 					<div class="column has-text-centered reviews-column">
 						<h2 class="subtitle has-text-weight-bold">HOURS</h2>
+						<p class="has-text-danger has-text-weight-bold">New Hours After 5/1/21</p>
 						<ul>
-							<li>Sun: 9AM - 9PM</li>
-							<li>Mon: 9AM - 8PM</li>
-							<li>Tue: 9AM - 8PM</li>
-							<li>Wed: 9AM - 8PM</li>
+							<li>Sun: 10AM - 6PM</li>
+							<li>Mon: 9AM - 5PM</li>
+							<li>Tue: 9AM - 5PM</li>
+							<li>Wed: 9AM - 5PM</li>
 							<li>Thu: <span class="has-text-danger has-text-weight-bold">CLOSED</span></li>
-							<li>Fri: 9AM - 9PM</li>
-							<li>Sat: 9AM - 9PM</li>
+							<li>Fri: 9AM - 5PM</li>
+							<li>Sat: 9AM - 6PM</li>
 						</ul>
 					</div>
 				</div>
