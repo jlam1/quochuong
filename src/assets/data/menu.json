@@ -7,12 +7,12 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/Hw3epam.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_banhmi"
 			},
 			{
 				"file": "https://i.imgur.com/OMncRma.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_banhmi"
 			}
 		],
@@ -118,7 +118,7 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/o6oMvte.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_mi"
 			}
 		],
@@ -168,7 +168,7 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/xm1ZETA.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_pho"
 			}
 		],
@@ -208,12 +208,12 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/3tj6HPt.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "bun_hutieu"
 			},
 			{
 				"file": "https://i.imgur.com/mOcWyxq.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "bun_hutieu"
 			}
 		],
@@ -251,12 +251,12 @@
 			{
 				"name": "B7. Bún Tôm & Chả Giò",
 				"description" : "charcoal shrimp & fried egg roll",
-				"price" : "8.00"
+				"price" : "9.00"
 			},
 			{
 				"name": "B8. Bún Tôm & Thịt Nướng",
 				"description" : "charcoal shrimp & bbq pork",
-				"price" : "8.00"
+				"price" : "9.00"
 			}
 		]
 	},
@@ -268,7 +268,7 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/C4K78hQ.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_rice"
 			}
 		],
@@ -333,7 +333,7 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/zVhg2yT.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_appetizer"
 			}
 		],
@@ -363,7 +363,7 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/aacimPa.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_drinks"
 			}
 		],
@@ -438,7 +438,7 @@
 		"images": [
 			{
 				"file": "https://i.imgur.com/OJz3Yca.png",
-				"title": "Taken By: William Pham",
+				"title": "",
 				"gallery": "gal_smoothies"
 			}
 		],
