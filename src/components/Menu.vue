@@ -1,24 +1,8 @@
 <template>
 	<section class="menu section" id="menu">
 		<div class="container">
-			<div style="text-align:center;">
-				<div class="has-text-centered" style="color: #ffff00ff !important;background-color: #da251dff;font-weight: bold;padding:20px;display:inline-block;">
-					<p style="font-size:1.4em;">New Hours After 5/1/21</p>
-					<ul style="padding:20px; font-size:1.2em;">
-						<li>Sun: 10AM - 6PM</li>
-						<li>Mon: 9AM - 5PM</li>
-						<li>Tue: 9AM - 5PM</li>
-						<li>Wed: 9AM - 5PM</li>
-						<li>Thu: <span class="has-text-weight-bold">CLOSED</span></li>
-						<li>Fri: 9AM - 5PM</li>
-						<li>Sat: 9AM - 6PM</li>
-					</ul>
-				</div>
-			</div>
-			<br>
-			<br>
 			<h2 class="is-primary has-text-centered is-size-1 section-title line-through">MENU</h2>
-			<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-tablet">* We only accept cash!</p>
+			<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-tablet">* WE ONLY ACCEPT CASH!</p>
 			<div class="section">
 
 				<div class="columns">
@@ -66,7 +50,7 @@
 
 				</div>
 
-				<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-mobile">* We only accept cash!</p>
+				<p class="has-text-centered is-size-4 has-text-weight-bold primary-color is-hidden-mobile">* WE ONLY ACCEPT CASH!</p>
 			</div>
 		</div>
 	</section>
