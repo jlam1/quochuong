@@ -20,42 +20,42 @@
 			{
 				"name": "1. Bánh Mì Gà",
 				"description" : "shredded chicken",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "2. Bánh Mì Paté",
 				"description" : "paté",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "3. Bánh Mì Xíu Mại",
 				"description" : "meatloaf",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "4. Bánh Mì Chả Lụa",
 				"description" : "pork sausage",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "5. Bánh Mì Thịt Nguội",
 				"description" : "steam pork",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "6. Bánh Mì Đặc Biệt",
 				"description" : "pate, meatloaf, pork sausage & bellies",
-				"price" : "4.00"
+				"price" : "4.50"
 			},
 			{
 				"name": "7. Bánh Mì Thịt Nướng",
 				"description" : "grilled bbq pork",
-				"price" : "4.00"
+				"price" : "4.50"
 			},
 			{
 				"name": "8. Bánh Mì Đậu Hũ",
 				"description" : "tofu",
-				"price" : "3.50"
+				"price" : "4.00"
 			},
 			{
 				"name": "9. Bánh Mì Trứng",
@@ -81,32 +81,32 @@
 			{
 				"name": "H1. Hủ Tiếu Bò Viên",
 				"description" : "rice noodles with beef ball",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "H2. Hủ Tiếu Đồ Biển",
 				"description" : "rice noodles with seafood",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "H3. Hủ Tiếu Khô",
 				"description" : "dry clear or white noodles with pork & seafood",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "H4. Hủ Tiếu Nam Vang",
 				"description" : "clear noodles with pork & seafood",
-				"price" : "7.00"
-			},
-			{
-				"name": "H5. Hủ Tiếu Thập Cẩm",
-				"description" : "rice noodles with pork, seafood, & beef",
 				"price" : "8.00"
 			},
 			{
 				"name": "H6. Hủ Tiếu Tôm",
 				"description" : "rice noodles with shrimp",
 				"price" : "8.00"
+			},
+			{
+				"name": "H5. Hủ Tiếu Thập Cẩm",
+				"description" : "rice noodles with pork, seafood, & beef",
+				"price" : "9.00"
 			}
 		]
 	},
@@ -126,37 +126,37 @@
 			{
 				"name": "M1. Mì Bò Viên",
 				"description" : "egg noodles with beef ball",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "M2. Mì Đồ Biến",
 				"description" : "egg noodles with seafood",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "M3. Mì Cây Nhãn",
 				"description" : "egg noodles with pork & seafood",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "M4. Mì Hoành Thánh",
 				"description" : "egg noodles with wonton",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "M5. Mì Khô",
 				"description" : "dry noodles with pork & seafood",
-				"price" : "7.00"
-			},
-			{
-				"name": "M6. Mì Thập Cẩm",
-				"description" : "egg noodles with pork, seafood, & beef",
 				"price" : "8.00"
 			},
 			{
 				"name": "M7. Mì Tôm",
 				"description" : "egg noodles with shrimp",
 				"price" : "8.00"
+			},
+			{
+				"name": "M6. Mì Thập Cẩm",
+				"description" : "egg noodles with pork, seafood, & beef",
+				"price" : "9.00"
 			}
 		]
 	},
@@ -176,27 +176,27 @@
 			{
 				"name": "P1. Phở Tái Nạm",
 				"description" : "halal brisket & eye round beef",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "P2. Phở Bò Viên",
 				"description" : "beef ball",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "P3. Phở Đặc Biệt",
 				"description" : "eye round beef, brisket, & beef ball",
-				"price" : "8.00"
+				"price" : "9.00"
 			},
 			{
 				"name": "P4. Phở Tôm",
 				"description" : "shrimp",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "P5. Phở Tái",
 				"description" : "eye round beef",
-				"price" : "7.00"
+				"price" : "8.00"
 			}
 		]
 	},
@@ -219,42 +219,32 @@
 		],
 		"items": [
 			{
-				"name": "B1. Bún Nem Nướng",
-				"description" : "shrimp ball",
-				"price" : "7.00"
-			},
-			{
-				"name": "B2. Bún Chạo Tôm",
-				"description" : "fried shrimp sugar cane & pork",
-				"price" : "7.00"
-			},
-			{
-				"name": "B3. Bún Thịt Nướng",
+				"name": "B1. Bún Thịt Nướng",
 				"description" : "bbq pork",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
-				"name": "B4. Bún Chả Giò",
+				"name": "B2. Bún Chả Giò",
 				"description" : "fried egg rolls",
 				"price" : "8.00"
 			},
 			{
-				"name": "B5. Bún Tôm Nướng",
+				"name": "B3. Bún Tôm Nướng",
 				"description" : "charcoal shrimp",
-				"price" : "7.00"
-			},
-			{
-				"name": "B6. Bún Thịt & Chả Giò",
-				"description" : "bbq pork & fried egg roll",
 				"price" : "8.00"
 			},
 			{
-				"name": "B7. Bún Tôm & Chả Giò",
+				"name": "B4. Bún Thịt & Chả Giò",
+				"description" : "bbq pork & fried egg roll",
+				"price" : "9.00"
+			},
+			{
+				"name": "B5. Bún Tôm & Chả Giò",
 				"description" : "charcoal shrimp & fried egg roll",
 				"price" : "9.00"
 			},
 			{
-				"name": "B8. Bún Tôm & Thịt Nướng",
+				"name": "B6. Bún Tôm & Thịt Nướng",
 				"description" : "charcoal shrimp & bbq pork",
 				"price" : "9.00"
 			}
@@ -276,52 +266,42 @@
 			{
 				"name": "C1. Cơm Thịt Nướng",
 				"description" : "bbq pork",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "C2. Cơm Sườn Nướng",
 				"description" : "charcoal pork chop",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "C3. Cơm Bì Chả Ốp La",
 				"description" : "skin pork, egg cake, & egg",
-				"price" : "7.00"
-			},
-			{
-				"name": "C4. Cơm Nem Nướng",
-				"description" : "charcoal mix shrimp & pork ball",
-				"price" : "7.00"
-			},
-			{
-				"name": "C5. Cơm Chạo Tôm",
-				"description" : "fried shrimp sugar cane & pork",
-				"price" : "7.00"
+				"price" : "8.00"
 			},
 			{
 				"name": "C6. Cơm Bì Chả",
 				"description" : "shredded pork & egg cake",
-				"price" : "7.00"
-			},
-			{
-				"name": "C7. Cơm Bì Sườn Chả Ốp La",
-				"description" : "pork chop, skin pork, egg cake, & egg",
-				"price" : "8.00"
-			},
-			{
-				"name": "C8. Cơm Bì Thịt Nướng Chả Ốp La",
-				"description" : "bbq pork, skin pork, egg cake, & egg",
 				"price" : "8.00"
 			},
 			{
 				"name": "C9. Cơm Tôm Nướng",
 				"description" : "charcoal shrimp",
-				"price" : "8.00"
+				"price" : "9.00"
+			},
+			{
+				"name": "C7. Cơm Bì Sườn Chả Ốp La",
+				"description" : "pork chop, skin pork, egg cake, & egg",
+				"price" : "9.00"
+			},
+			{
+				"name": "C8. Cơm Bì Thịt Nướng Chả Ốp La",
+				"description" : "bbq pork, skin pork, egg cake, & egg",
+				"price" : "9.00"
 			},
 			{
 				"name": "C10. Cơm Tôm Thịt Nướng",
 				"description" : "rice shrimp and bbq pork",
-				"price" : "8.00"
+				"price" : "9.00"
 			}
 		]
 	},
@@ -341,17 +321,17 @@
 			{
 				"name": "A1. Gỏi Cuốn",
 				"description" : "steam roll with shrimp & pork",
-				"price" : "4.00"
+				"price" : "5.00"
 			},
 			{
 				"name": "A2. Gỏi Tôm",
 				"description" : "steam roll with shrimp",
-				"price" : "4.00"
+				"price" : "5.00"
 			},
 			{
 				"name": "A3. Chả Giò",
 				"description" : "vietnamese fried eggroll",
-				"price" : "7.00"
+				"price" : "8.00"
 			}
 		]
 	},
@@ -446,22 +426,22 @@
 			{
 				"name": "Sinh Tố Bơ",
 				"description" : "avocado",
-				"price" : "4.00"
+				"price" : "5.00"
 			},
 			{
 				"name": "Sinh Tố Mãng Cầu",
 				"description" : "sour custard",
-				"price" : "4.00"
+				"price" : "5.00"
 			},
 			{
 				"name": "Sinh Tố Dâu",
 				"description" : "strawberry",
-				"price" : "4.00"
+				"price" : "5.00"
 			},
 			{
 				"name": "Sinh Tố Cà Phê",
 				"description" : "vietnamese coffee",
-				"price" : "4.00"
+				"price" : "5.00"
 			},
 			{
 				"name": "Sinh Tố Xoài",
@@ -491,11 +471,6 @@
 			{
 				"name": "Sinh Tố Trà Xanh",
 				"description" : "green tea",
-				"price" : "4.00"
-			},
-			{
-				"name": "Sinh Tố Trà Thái",
-				"description" : "thai tea",
 				"price" : "4.00"
 			}
 		]
